@@ -3,7 +3,6 @@ Keras==2.4.3
 pandas==1.1.5
 tqdm==4.41.1
 matplotlib==3.2.2
-scipy==1.4.1
 ipython==7.23.1
 Pillow==8.2.0
 playsound==1.2.2
